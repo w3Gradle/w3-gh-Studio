@@ -1,1 +1,1 @@
-w3Gradle - IT Products & Services.
+w3-gh Studio platform.
